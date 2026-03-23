@@ -63,4 +63,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->

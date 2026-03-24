@@ -29,6 +29,7 @@
 | [0011-container-with-most-water](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0209-minimum-size-subarray-sum) |
+| [0875-koko-eating-bananas](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0209-minimum-size-subarray-sum) |
+| [0875-koko-eating-bananas](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0875-koko-eating-bananas) |
 ## Sliding Window
 |  |
 | ------- |

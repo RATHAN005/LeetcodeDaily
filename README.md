@@ -98,4 +98,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0239-sliding-window-maximum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

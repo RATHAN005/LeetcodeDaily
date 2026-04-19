@@ -1,10 +1,7 @@
 
 # LeetCode Topics
 
-## Dynamic Programming
-|  |
-| ------- |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+
 
 
 <!---LeetCode Topics Start-->
@@ -32,6 +29,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0239-sliding-window-maximum) |
+| [0542-01-matrix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0542-01-matrix) |
 | [0875-koko-eating-bananas](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0994-rotting-oranges) |
 ## Greedy
@@ -117,9 +115,16 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0994-rotting-oranges) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->

@@ -33,6 +33,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0239-sliding-window-maximum) |
 | [0875-koko-eating-bananas](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0994-rotting-oranges) |
 ## Greedy
 |  |
 | ------- |
@@ -113,4 +114,12 @@
 | [0197-rising-temperature](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0596-classes-with-at-least-5-students) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->

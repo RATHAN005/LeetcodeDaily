@@ -25,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0209-minimum-size-subarray-sum) |
@@ -126,7 +127,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0518-coin-change-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0542-01-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

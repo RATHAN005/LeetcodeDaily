@@ -32,6 +32,7 @@
 | [0239-sliding-window-maximum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0239-sliding-window-maximum) |
 | [0518-coin-change-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0542-01-matrix) |
+| [0705-design-hashset](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0705-design-hashset) |
 | [0875-koko-eating-bananas](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0994-rotting-oranges) |
 ## Greedy
@@ -47,6 +48,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | [0001-two-sum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0141-linked-list-cycle) |
+| [0705-design-hashset](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0705-design-hashset) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,4 +138,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0053-maximum-subarray) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->

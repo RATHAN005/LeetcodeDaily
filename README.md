@@ -35,10 +35,12 @@
 | [0705-design-hashset](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0705-design-hashset) |
 | [0875-koko-eating-bananas](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0994-rotting-oranges) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0011-container-with-most-water) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Linked List
 |  |
 | ------- |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0705-design-hashset) |
+## Sorting
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->

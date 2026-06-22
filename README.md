@@ -20,6 +20,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0344-reverse-string) |
+| [1189-maximum-number-of-balloons](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1189-maximum-number-of-balloons) |
 ## Array
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0141-linked-list-cycle](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0217-contains-duplicate) |
 | [0705-design-hashset](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0705-design-hashset) |
+| [1189-maximum-number-of-balloons](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1189-maximum-number-of-balloons) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,4 +162,8 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0217-contains-duplicate) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->

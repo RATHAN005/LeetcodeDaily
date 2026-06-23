@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0209-minimum-size-subarray-sum) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0518-coin-change-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0542-01-matrix) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |

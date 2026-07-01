@@ -21,6 +21,7 @@
 | [0125-valid-palindrome](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0344-reverse-string) |
 | [1189-maximum-number-of-balloons](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Array
 |  |
@@ -71,6 +72,7 @@
 | [0217-contains-duplicate](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0217-contains-duplicate) |
 | [0705-design-hashset](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0705-design-hashset) |
 | [1189-maximum-number-of-balloons](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0239-sliding-window-maximum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |

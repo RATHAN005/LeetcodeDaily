@@ -43,6 +43,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 ## Greedy
 |  |
 | ------- |

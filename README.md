@@ -11,6 +11,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0344-reverse-string) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0078-subsets) |

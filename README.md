@@ -36,6 +36,7 @@
 | [0053-maximum-subarray](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0239-sliding-window-maximum) |
@@ -81,6 +82,7 @@
 | [0001-two-sum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0217-contains-duplicate) |
 | [0705-design-hashset](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0705-design-hashset) |
 | [1189-maximum-number-of-balloons](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1189-maximum-number-of-balloons) |
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0169-majority-element) |
 ## Design
 |  |
 | ------- |
@@ -195,6 +198,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0217-contains-duplicate) |
 | [1288-remove-covered-intervals](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1288-remove-covered-intervals) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -202,6 +206,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1189-maximum-number-of-balloons) |
 ## Union-Find
 |  |

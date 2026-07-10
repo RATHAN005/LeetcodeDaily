@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0058-length-of-last-word](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0344-reverse-string) |
 | [1189-maximum-number-of-balloons](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1189-maximum-number-of-balloons) |

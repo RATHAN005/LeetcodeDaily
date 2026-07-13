@@ -236,4 +236,8 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2685-count-the-number-of-complete-components) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->

@@ -117,6 +117,7 @@
 | [0002-add-two-numbers](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0002-add-two-numbers) |
 | [0263-ugly-number](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0263-ugly-number) |
 | [2235-add-two-integers](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2235-add-two-integers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Backtracking
 |  |
@@ -240,4 +241,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

@@ -49,6 +49,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -116,6 +117,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0002-add-two-numbers) |
 | [0263-ugly-number](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0263-ugly-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -244,5 +246,6 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

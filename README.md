@@ -27,6 +27,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -100,6 +102,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0209-minimum-size-subarray-sum) |
 | [0875-koko-eating-bananas](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
@@ -258,4 +261,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->

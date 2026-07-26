@@ -44,6 +44,7 @@
 | [0239-sliding-window-maximum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0239-sliding-window-maximum) |
 | [0518-coin-change-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0705-design-hashset) |
 | [0875-koko-eating-bananas](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0994-rotting-oranges) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0002-add-two-numbers) |
 | [0263-ugly-number](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0263-ugly-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2235-add-two-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -217,6 +219,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1331-rank-transform-of-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |

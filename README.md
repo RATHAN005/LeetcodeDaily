@@ -38,6 +38,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0169-majority-element) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1979-find-greatest-common-divisor-of-array) |

@@ -51,6 +51,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0705-design-hashset) |
 | [0875-koko-eating-bananas](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1301-number-of-paths-with-max-score) |
@@ -135,6 +136,7 @@
 | [0263-ugly-number](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2235-add-two-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -210,6 +212,7 @@
 | [0486-predict-the-winner](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0542-01-matrix) |
+| [0877-stone-game](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -302,4 +305,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

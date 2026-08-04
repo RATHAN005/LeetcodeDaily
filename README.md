@@ -69,6 +69,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3731-find-missing-elements](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -244,6 +246,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3731-find-missing-elements](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |

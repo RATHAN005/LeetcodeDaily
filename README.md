@@ -145,6 +145,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -226,6 +227,7 @@
 | [0877-stone-game](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1510-stone-game-iv) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Divide and Conquer
@@ -323,4 +325,21 @@
 | [0486-predict-the-winner](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1510-stone-game-iv) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->

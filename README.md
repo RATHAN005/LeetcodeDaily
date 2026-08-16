@@ -63,6 +63,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -153,6 +155,7 @@
 | [1406-stone-game-iii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -269,6 +272,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2029-stone-game-ix) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Union-Find
 |  |
@@ -334,14 +338,17 @@
 | [0877-stone-game](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -350,6 +357,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2029-stone-game-ix) |
 ## Ordered Set
 |  |
 | ------- |

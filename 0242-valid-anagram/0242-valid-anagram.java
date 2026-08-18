@@ -9,7 +9,7 @@ class Solution {
         Arrays.sort(sSort);
         Arrays.sort(tSort);
 
-        return Arrays.equals(sSort, tSort);
+        return Arrays.equals(sSort,tSort);
 
     }
 }

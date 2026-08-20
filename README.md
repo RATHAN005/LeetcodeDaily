@@ -71,6 +71,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -375,4 +376,8 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->

@@ -15,6 +15,7 @@
 | [0125-valid-palindrome](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0977-squares-of-a-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
@@ -56,6 +57,7 @@
 | [0705-design-hashset](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0705-design-hashset) |
 | [0875-koko-eating-bananas](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1301-number-of-paths-with-max-score) |
@@ -272,6 +274,7 @@
 | [0217-contains-duplicate](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |

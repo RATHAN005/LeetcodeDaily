@@ -66,6 +66,7 @@
 | [1406-stone-game-iii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2029-stone-game-ix) |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0209-minimum-size-subarray-sum) |
+| [1872-stone-game-viii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1872-stone-game-viii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Math
 |  |
@@ -166,6 +168,7 @@
 | [1406-stone-game-iii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2235-add-two-integers) |
@@ -253,6 +256,7 @@
 | [1406-stone-game-iii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1872-stone-game-viii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Divide and Conquer
@@ -356,11 +360,13 @@
 | [1406-stone-game-iii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -375,6 +381,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2029-stone-game-ix) |
 ## Ordered Set
 |  |

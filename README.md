@@ -25,6 +25,7 @@
 | [0125-valid-palindrome](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0344-reverse-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0434-number-of-segments-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1358-number-of-substrings-containing-all-three-characters) |

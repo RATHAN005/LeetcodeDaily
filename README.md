@@ -75,6 +75,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -98,6 +99,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RATHAN005/LeetcodeDaily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3534-path-existence-queries-in-a-graph-ii) |

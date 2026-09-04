@@ -94,6 +94,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0209-minimum-size-subarray-sum) |
 | [1872-stone-game-viii](https://github.com/RATHAN005/LeetcodeDaily/tree/master/1872-stone-game-viii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3903-smallest-stable-index-i](https://github.com/RATHAN005/LeetcodeDaily/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |

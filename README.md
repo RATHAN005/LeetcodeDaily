@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0010-regular-expression-matching) |
 | [0058-length-of-last-word](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0242-valid-anagram) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0486-predict-the-winner) |
@@ -268,6 +270,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/RATHAN005/LeetcodeDaily/tree/master/0486-predict-the-winner) |
